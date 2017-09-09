@@ -1,12 +1,12 @@
 
 def main():
-    person_a = "Person A"
-    superlative_a = "best"
+    person_a = "Yi"
+    superlative_a = "dankest"
 
-    person_b = "Person B"
-    superlative_b = "worst"
+    person_b = "Ni"
+    superlative_b = "weebest"
 
-    name = "Hilfinger"
+    name = "Garcia"
     position = "professor"
     print("{0}: {1} is the {2} {3}!".format(person_a, name, superlative_a, position))
     print("{0}: {1} is the {2} {3}!".format(person_b, name, superlative_b, position))
